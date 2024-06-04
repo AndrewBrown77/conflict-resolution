@@ -3,4 +3,4 @@
 ## This is a subheading created locally
 
 All of this content dded to the reade file has 
-been added from my lcoal github repository
+been added from my local git repositroy
